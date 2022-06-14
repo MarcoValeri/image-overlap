@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/MarcoValeri/image-overlap#readme",
   "dependencies": {
+    "gsap": "^3.10.4",
     "node-sass": "^7.0.1"
   }
 }
